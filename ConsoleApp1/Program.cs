@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("First");
             Console.WriteLine("Hello world !");
+            Console.WriteLine("This is another message that should generate a merge conflict !");
         }
     }
 }
